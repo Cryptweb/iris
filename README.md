@@ -19,7 +19,8 @@ Yes, there **ARE** resellers. To **sign up** for reselling, you **must first pay
 | Aimbot | Aimbot with camera and mouse options. | ✅ |
 | Body Part | Allows you to change the body part for aimbot. For Bad Business and Phantom Forces, there is only Head & Torso. | ✅ |
 | Random Body Part | Automatically changes the body part each time you lock on to a target | ✅ |
-| Target Strafe | Orbits around the specified target. Works with aimbot enabled only. | ✅ |
+| Closest Body Part | Automatically find the closest part to your cursor of the target. It will stay the same until you unlock from the target. | ✅ |
+| Orbit | Orbits around the specified target. Works with aimbot enabled only. | ✅ |
 | Prediction | Allows you to change the prediction type to multiplication or division. You are also able to separate the prediction axis (X & Y) and select distance prediction [Close / Mid / Far]. | ✅ |
 | Aimbot Offsets | Allows you to set a specific offset for the X & Y axis. Something can be useful when some hitboxes are too small. | ✅ |
 | Visuals | Visuals include: Username ESP, Box ESP [2D, 2D Corner, 2D Dynamic, 3D, 3D Dynamic], Fill Box, Health Bar, Armor Bar [Da Hood], Skeleton, outlines and color changeability. | ➕➖ |
